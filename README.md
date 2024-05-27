@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning C#
 - 📫My instagram @shi.sasssy
 - 😄 Pronouns: She/her
-
